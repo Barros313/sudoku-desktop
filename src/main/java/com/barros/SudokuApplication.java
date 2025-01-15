@@ -1,5 +1,7 @@
 package com.barros;
 
+import javafx.stage.Stage;
+
 import java.io.IOException;
 
 
