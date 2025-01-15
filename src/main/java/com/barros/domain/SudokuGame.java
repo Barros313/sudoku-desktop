@@ -1,5 +1,7 @@
 package com.barros.domain;
 
+import com.barros.constants.GameState;
+
 import java.io.Serializable;
 
 public class SudokuGame implements Serializable {
